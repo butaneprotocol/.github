@@ -15,7 +15,7 @@ The deployment of the $BTN token can be audited [here](https://github.com/butane
   <img width="100px" src="https://github.com/butaneprotocol/blaze-cardano/raw/main/logo/BLAZE_LOGO2.svg" align="center"/>
   <h1 align="center">Blaze</h1>
 <p align="center">Blaze is a software development kit developed by the Butane Team.
-You can find blaze [here](https://github.com/butaneprotocol/blaze-cardano)</p>
+You can find blaze <a href="https://github.com/butaneprotocol/blaze-cardano" target="_blank">here</a></p>
 <p align="center">
     <img src="https://img.shields.io/github/commit-activity/m/butaneprotocol/blaze-cardano?style=for-the-badge" />
     <a href="https://www.npmjs.com/package/@blaze-cardano/sdk">
