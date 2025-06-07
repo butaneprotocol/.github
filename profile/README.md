@@ -1,21 +1,28 @@
 <p align="center" style="border: none">
-  <img src="https://avatars.githubusercontent.com/u/142697482?s=48&v=4" alt="Butane" width="100" align="left"  style="border: none"/>
+  <img src="https://avatars.githubusercontent.com/u/142697482?s=48&v=4" alt="Butane" width="100" align="center"  style="border: none"/>
   <h2 align="center" style="border: none">Builders of Butane Protocol</h2>
 </p>
-<br  style="border: none"/><br  style="border: none"/>
 
-## 🛠️ Technical MVP
-The technical mvp for butane can be found [here](https://github.com/butaneprotocol/technical-mvp).
+
+## 🛠️ Butane is Live!
+
+Butane Protocol is live on mainnet! Visit [butane.dev](https://butane.dev) to use the platform.
 
 ## 🛠️ BTN Deployment
+
 The deployment of the $BTN token can be audited [here](https://github.com/butaneprotocol/btn-deployment).
 
+## 🪙 Token-launch contracts
+
+Open sourced smart contracts for the butane launch, can be found [here](https://github.com/butaneprotocol/token-launch).
+
 ## 🔥 Looking for Blaze?
+
 <p align="center">
   <img width="100px" src="https://github.com/butaneprotocol/blaze-cardano/raw/main/logo/BLAZE_LOGO2.svg" align="center"/>
   <h1 align="center">Blaze</h1>
 <p align="center">Blaze is a software development kit developed by the Butane Team.
-You can find blaze <a href="https://github.com/butaneprotocol/blaze-cardano" target="_blank">here</a></p>
+You can find blaze <a href="https://github.com/butaneprotocol/blaze-cardano" target="_blank">here.</a></p>
 <p align="center">
     <img src="https://img.shields.io/github/commit-activity/m/butaneprotocol/blaze-cardano?style=for-the-badge" />
     <a href="https://www.npmjs.com/package/@blaze-cardano/sdk">
@@ -28,21 +35,17 @@ You can find blaze <a href="https://github.com/butaneprotocol/blaze-cardano" tar
       <img src="https://img.shields.io/npm/dw/@blaze-cardano/sdk?style=for-the-badge" />
     </a>
     <img src="https://img.shields.io/github/license/butaneprotocol/blaze-cardano?style=for-the-badge" />
-    <a href="https://twitter.com/butaneprotocol">
-      <img src="https://img.shields.io/twitter/follow/butaneprotocol?style=for-the-badge&logo=twitter" />
-    </a>
-    <a href="https://discord.gg/4hUAdHAexb">
-      <img src="https://img.shields.io/discord/946071061567529010?style=for-the-badge&logo=discord&label=chat%20with%20us" />
-    </a>
   </p>
 </p>
 
-## 🔍 Looking for Translucent?
-Translucent was a lucid fork, which is deprecated in favour of [blaze](https://github.com/butaneprotocol/blaze-cardano).
-
-## 🪙 Token-launch contracts
-Butane open sourced our smart contracts for the butane launch, you can find them [here](https://github.com/butaneprotocol/token-launch).
+ 
+> **Translucent** was a Lucid fork that has been deprecated in favor of [**Blaze**](https://github.com/butaneprotocol/blaze-cardano). 
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
 
-Follow us on Twitter [@butaneprotocol](https://twitter.com/butaneprotocol) for updates and chats about the future of Butane.
+<a href="https://twitter.com/butaneprotocol">
+  <img src="https://img.shields.io/twitter/follow/butaneprotocol?style=for-the-badge&logo=twitter" />
+</a>
+<a href="https://discord.gg/4hUAdHAexb">
+  <img src="https://img.shields.io/discord/946071061567529010?style=for-the-badge&logo=discord&label=chat%20with%20us" />
+</a>
